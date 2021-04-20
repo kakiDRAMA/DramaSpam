@@ -8,6 +8,6 @@ requests.post("https://cmsapi.mapclub.com/api/signup-otp", headers=head, json=da
 
 
 #KALIAN SALIN SEMUA TEKS NYA DAN TEMPEL DI TERMUX#
-#SESUAI VIDEO TUTORIAL SAYA AJA YA#
-SUBSCRIBE CHANNE ADMIN Y BOS...
-YOUTUBE : PAPI KING21
+
+
+
